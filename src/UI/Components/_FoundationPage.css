@@ -1,0 +1,121 @@
+.foundation{
+    background-image: url(https://distancepathshala.com/static/media/BG.131adeb8.svg);
+   min-height: 450px;
+    width: 100%;
+    background-size: cover;
+}
+.bordes_radius{
+    border-radius: 50%;
+    width: 150.71px;
+height: 150.71px;
+
+} 
+#foundation2 .btn{
+    
+border-radius: 3px;
+padding: 6px 65px 7px 26px
+}
+/* #foundation3 .btn{
+    
+    border-radius: 3px;
+    padding: 6px 30px 7px 26px;
+    } */
+#foundation2 .btnmargin{
+  margin-right: 20px;
+    }
+
+.borderright{
+    border-right:1px solid #FFFFFF;
+    height: 78px;
+    position: absolute;
+    margin-left: 72px;
+    top: 18%;
+}
+/* nanner section end...........     */
+
+h3 {
+    font-size: 1rem;
+}      
+.foundantion__detail {
+    height: 3rem;
+    background-color: #003C92;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}     
+.foundation__detailBody {
+    padding: 1rem;
+    height: 9rem;
+    background-color: #fff;
+}
+.collegeView__detailSectionFee {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foundationcircle {
+    border-radius: 50%;
+    width: 42px;
+    height: 41px;
+    padding: 8px;
+    background: #003C92;
+    border: 0px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+.outlook{
+    top: 47px;
+}
+    
+/* #accordianTab .tab-pane {
+    display: block!important;
+} */
+   
+/* accordiaon page */
+.nav-pills .nav-link {
+    background-color: #003c92!important;
+    border: 0;
+    border-radius: 33px;
+    background: #003c92!important;
+    color: #fff;
+    margin: 2px;
+    text-align: center;
+    border-radius:33px !important;
+    height: 55px !important;
+    font-size: 17px;
+    padding: 13px 0px;
+}
+.nav-pills .nav-link.active {
+    color: #fff;
+    background-color: #0d6efd;
+    border-radius:33px !important;
+    height: 55px !important;
+    font-size: 17px;
+    padding: 13px 0px;
+    text-align: center;
+}
+#subtabs .nav-pills .nav-link.active {
+    color: #fff;
+    background-color: #0d6efd;
+    border-radius:33px !important;
+    height: 55px !important;
+    font-size: 17px;
+    padding: 15px 78px 30px 30px!important;
+    text-align: center;
+}
+#subtabs .nav-pills .nav-link {
+    background: 0 0;
+    border: 0;
+    border-radius: 33px;
+    background: #003c92;
+    color: #fff;
+    margin: 2px;
+    text-align: center;
+    border-radius:0px !important;
+    height: 55px !important;
+    font-size: 17px;
+    padding: 13px 0px;
+}
